@@ -10,7 +10,7 @@ public class MyTest {
 
             array[i] = ((int)(Math.random() * 100));
             if (remnant == 0)
-            System.out.println(" Число " + array[i] + " чётное");
+            System.out.println(" Числоп " + array[i] + " чётное");
         }
     }
 }
